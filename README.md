@@ -5,7 +5,7 @@ same machine.
 
 `display` prints the chat log and continually checks for new writes.
 
-# Sample usage
+**Sample usage**
 
 Alice and Bob are logged into the same machine. Each have root permissions.
 They agree to store their chat log in the file `/cht`.
